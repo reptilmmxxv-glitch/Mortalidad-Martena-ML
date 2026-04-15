@@ -1,3 +1,4 @@
+<img width="1408" height="768" alt="Mortalidad-MAterna" src="https://github.com/user-attachments/assets/23ae4652-0a83-4f53-816b-084ddd2e3881" />
 
 
 # Mortalidad-Martena-ML
