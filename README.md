@@ -3,8 +3,13 @@
 
 # Mortalidad-Martena-ML
 Sistema de predicción de riesgo de mortalidad materna usando Regresión Logística
+
 Desarrollado por C. Rozas Balboa
+
+
 Matron / Alumno ingernieria civil informatica
+
+
 Facultad de Ingeniería, Universidad Andrés Bello
 
 Descripción del Proyecto
