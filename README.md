@@ -7,7 +7,7 @@ Sistema de predicción de riesgo de mortalidad materna usando Regresión Logíst
 Desarrollado por C. Rozas Balboa
 
 
-Matron / Alumno ingenieria civil informatica
+Matron / Alumno Ingeniería Civil Informática 
 
 
 Facultad de Ingeniería, Universidad Andrés Bello
